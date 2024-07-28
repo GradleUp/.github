@@ -3,7 +3,6 @@
 Any bug reports, feature requests and comments are welcome!
 The project keeps evolving,
 and any feedback from end users and developers will be appreciated.
-At the moment, there is no public Slack channel,
 
 ## Raising Issues and Feature Requests
 
