@@ -1,0 +1,44 @@
+name: '🐛 Bug report'
+labels: 'bug'
+description: Create a bug report to help us improve
+
+body:
+  - type: textarea
+    attributes:
+      label: Expected and Results
+      description: What was your expected result?
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Related environent and versions
+      description: |
+        If any version of Gradle Build Tool, Gradle plugin, platform or OS may be related to the issue,
+        please list them here. 
+    validations:
+      required: false
+  
+  - type: textarea
+    attributes:
+      label: Reproduction steps
+      description: |
+        Write bullet-point reproduction steps, especially if the issue is not trivial to reproduce.
+      placeholder: |
+        1. Step 1: ...
+        2. Step 2: ...
+    validations:
+      required: false
+  
+  - type: textarea
+    attributes:
+      label: Anything else?
+      description: |
+        You can provide additional context below.
+        If you would like to contribute a fix, let us know.
+
+  - type: markdown
+    attributes:
+      value: |
+        **Never report security issues on GitHub or other public channels**
+        Follow these instruction to report security issues: https://gradleup.com/org/SECURITY/
