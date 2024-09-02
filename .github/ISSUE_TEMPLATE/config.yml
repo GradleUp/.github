@@ -1,0 +1,7 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "🛟 Community Slack"
+    url: https://gradleup.com/docs/community/participate/#slack
+    about: >
+      For community discussions, consider joining our the #gradleup channel the Gradle Community Slack.
+
