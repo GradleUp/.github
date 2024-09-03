@@ -1,4 +1,4 @@
-name: Other
+name: "❓ Other"
 description: Free form issue for everything that doesn't fit in the templates above
 body:
   - type: textarea
