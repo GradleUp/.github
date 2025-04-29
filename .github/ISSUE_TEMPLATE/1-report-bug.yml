@@ -12,7 +12,7 @@ body:
 
   - type: textarea
     attributes:
-      label: Related environent and versions
+      label: Related environment and versions
       description: |
         If any version of Gradle Build Tool, Gradle plugin, platform or OS may be related to the issue,
         please list them here. 
