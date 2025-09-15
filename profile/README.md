@@ -9,8 +9,11 @@
 </a>
 
 GradleUp is an umbrella GitHub organization
-focusing on simplifying Java and Android development with Gradle.
+focusing on simplifying Java, Kotlin and Android development with Gradle.
 On our menu: Gradle plugins, developer tools and best practices.
 We host components and ensure their long-term sustainability.
 
 This is a volunteer-driven project. Contributions are [welcome](https://gradleup.com/docs/community/participate/)!
+
+**GradleUp not affiliated with, or sponsored by Gradle, Inc.**
+**Gradle Up is an independent organization and its projects, plugins, and products are not affiliated with or sponsored by Gradle, Inc. in any way.**
